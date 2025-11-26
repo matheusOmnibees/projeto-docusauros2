@@ -9,8 +9,6 @@ slug: /
 
 ![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
-
 
 Neste guia, você aprenderá a configurar e editar alertas de disponibilidade.
 
@@ -25,9 +23,7 @@ Nesta aba, é possível configurar uma **‘notificação’**, na qual o sistem
 
 Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos disponíveis for menor do que a quantidade informada na configuração.
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 
 ## Configurações
@@ -38,11 +34,9 @@ Depois, será possível configurar o ‘*envio da notificação*’ ou a aplica�
 
 Para isso, selecione a ação desejada e informe o ‘número de quartos disponíveis’:
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 ![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
-
-![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
 
 ## Opções de Notificação e Fecho de Vendas
@@ -62,11 +56,9 @@ Para isso, selecione a ação desejada e informe o ‘número de quartos dispon�
 
 - As configurações de notificação e fecho de vendas considerarão o **‘inventário’ cadastrado para os tipos de quartos, e não o 'allotment'**.
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
 ![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
-
-![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
 
 
 ## Mais Opções
@@ -83,11 +75,9 @@ Clique em **“Traduzir”** para seguir com as traduções do assunto.
 
 Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no botão ‘mais opções’ (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
 
 ![imagem-8](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-8.webp)
-
-![imagem-9](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-9.webp)
 
 
 Após finalizar as configurações, clique em **‘Salvar’** para que o sistema grave as informações.
@@ -96,10 +86,3 @@ Para mais informações, contate nosso atendimento online CHAT ou envie e-mail p
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 # Boas Vendas!!
-
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-
-![imagem-10](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-10.webp)
-
-
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
