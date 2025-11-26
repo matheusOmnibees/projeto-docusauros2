@@ -18,8 +18,6 @@ TARIFÁRIOS E DISPONIBILIDADE
 **GUIA RÁPIDO**  
 # ALERTAS DE DISPONIBILIDADE
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-
 
 ## Página 2
 
@@ -43,7 +41,7 @@ Nesta aba, será possível configurar uma **‘notificação’**, na qual o sis
 
 Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos disponíveis for menor do que a quantidade informada na configuração.
 
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
 
 ## Página 3
@@ -61,7 +59,7 @@ Depois, será possível configurar o ‘*envio da notificação*’ ou de aplica
 
 Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:
 
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 
 ## Página 4
@@ -86,9 +84,9 @@ TARIFÁRIOS E DISPONIBILIDADE
 
 - **AS CONFIGURAÇÕES DE NOTIFICAÇÃO E FECHO DE VENDAS CONSIDERARÃO O ‘INVENTÁRIO’ CADASTRADO PARA OS TIPOS DE QUARTOS, E NÃO O 'ALLOTMENT'.**
 
-![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
-![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
+![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
 
 ## Página 5
@@ -112,9 +110,9 @@ Na aba de ‘Mais Opções’, ‘**Configure e-mails e escreva um assunto’**:
 
 Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no **botão** ‘mais opções’ (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
-![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
+![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
-![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
+![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
 
 
 ## Página 6
