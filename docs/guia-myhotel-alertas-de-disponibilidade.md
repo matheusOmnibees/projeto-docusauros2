@@ -45,9 +45,9 @@ Nesta aba, será possível configurar uma **‘notificação’**, na qual o sis
 
 Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos disponíveis for menor do que a quantidade informada na configuração.
 
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 
 ## Página 3
@@ -65,11 +65,11 @@ Depois, será possível configurar o ‘*envio da notificação*’ ou de aplica
 
 Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:
 
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+
+![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
+
 ![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
-
-![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
-
-![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
 
 
 ## Página 4
@@ -94,11 +94,11 @@ TARIFÁRIOS E DISPONIBILIDADE
 
 - **AS CONFIGURAÇÕES DE NOTIFICAÇÃO E FECHO DE VENDAS CONSIDERARÃO O ‘INVENTÁRIO’ CADASTRADO PARA OS TIPOS DE QUARTOS, E NÃO O 'ALLOTMENT'.**
 
-![imagem-8](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-8.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-![imagem-9](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-9.webp)
+![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
 
-![imagem-10](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-10.webp)
+![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
 
 
 ## Página 5
@@ -122,11 +122,11 @@ Na aba de ‘Mais Opções’, ‘**Configure e-mails e escreva um assunto’**:
 
 Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no **botão** ‘mais opções’ (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
-![imagem-11](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-11.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-![imagem-12](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-12.webp)
+![imagem-8](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-8.webp)
 
-![imagem-13](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-13.webp)
+![imagem-9](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-9.webp)
 
 
 ## Página 6
@@ -143,9 +143,9 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 # Boas Vendas!!
 
-![imagem-14](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-14.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-![imagem-15](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-15.webp)
+![imagem-10](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-10.webp)
 
 
 ## Página 7
@@ -155,4 +155,4 @@ TARIFÁRIOS E DISPONIBILIDADE
 *GUIA RÁPIDO*
 
 
-![imagem-16](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-16.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
