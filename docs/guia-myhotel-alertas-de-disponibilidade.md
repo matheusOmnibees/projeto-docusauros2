@@ -8,7 +8,7 @@ slug: /
 # TARIFÁRIOS E DISPONIBILIDADE - ALERTAS DE DISPONIBILIDADE - GUIA RÁPIDO
 
 
-### Página 1
+## Página 1
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -21,7 +21,7 @@ TARIFÁRIOS E DISPONIBILIDADE
 ![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
 
-### Página 2
+## Página 2
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -46,7 +46,7 @@ Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos d
 ![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 
-### Página 3
+## Página 3
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -64,7 +64,7 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
 ![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 
-### Página 4
+## Página 4
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -91,7 +91,7 @@ TARIFÁRIOS E DISPONIBILIDADE
 ![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
 
-### Página 5
+## Página 5
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -117,7 +117,7 @@ Para acessar o **‘Histórico de Alterações’** das configurações de ‘al
 ![imagem-7](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-7.webp)
 
 
-### Página 6
+## Página 6
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
@@ -132,7 +132,7 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 # Boas Vendas!!
 
 
-### Página 7
+## Página 7
 
 TARIFÁRIOS E DISPONIBILIDADE  
 **ALERTAS DE DISPONIBILIDADE**  
