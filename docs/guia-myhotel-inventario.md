@@ -188,3 +188,4 @@ o nosso atendimento online CHAT - ou através do e-mail:
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-24](/assets/guia-myhotel-inventario/imagem-24.webp)
+![imagem-25](/assets/guia-myhotel-inventario/imagem-25.webp)
