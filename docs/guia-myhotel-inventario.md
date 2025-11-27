@@ -22,7 +22,6 @@ O caminho para acessar a aba de inventário é:
 
 **Menu de Navegação > Tarifários e Disponibilidade > Inventário:**
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-4](/assets/guia-myhotel-inventario/imagem-4.webp)
 ![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -37,7 +36,6 @@ Nesta aba será possível consultar as informações:
 
 Para hotéis que possuem tarifários com o **‘Tipo de Disponibilidade: Tarifário com impacto no Inventário’**, estará disponível a opção de visualizar o calendário em **‘Vista Detalhada’**, permitindo a consulta das atualizações de allotment realizadas para esse tipo de tarifário, onde serão exibidas:
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-7](/assets/guia-myhotel-inventario/imagem-7.webp)
 ![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -58,7 +56,6 @@ Ao clicar no botão **‘Atualizar’**, será possível fazer a atualização d
 
 1. **Disponibilidade:** número de quartos disponíveis:
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-9](/assets/guia-myhotel-inventario/imagem-9.webp)
 ![imagem-10](/assets/guia-myhotel-inventario/imagem-10.webp)
 ![imagem-11](/assets/guia-myhotel-inventario/imagem-11.webp)
@@ -78,7 +75,6 @@ Ao clicar em **‘Atualizar Ocupação’**, informe:
 
 Para finalizar a atualização clique no botão **‘Salvar’**.
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-15](/assets/guia-myhotel-inventario/imagem-15.webp)
 ![imagem-16](/assets/guia-myhotel-inventario/imagem-16.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -89,7 +85,6 @@ Será possível atualizar o **‘Total de Apartamentos’**, clicando diretament
 
 Também será possível, clicando diretamente na grelha do calendário, selecionar um período. Para isso, basta clicar no dia inicial do período, arrastar até os dias seguintes e, em seguida, clicar no ícone de lápis no último dia do período selecionado:
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-20](/assets/guia-myhotel-inventario/imagem-20.webp)
 ![imagem-21](/assets/guia-myhotel-inventario/imagem-21.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -102,7 +97,6 @@ No final do calendário de inventário, será possível visualizar:
 - O número **‘Total de Ocupados’**, de quartos ocupados.
 - O número **‘Total de Disponíveis’**, de quartos disponíveis.
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-22](/assets/guia-myhotel-inventario/imagem-22.webp)
 ![imagem-23](/assets/guia-myhotel-inventario/imagem-23.webp)
 ![imagem-11](/assets/guia-myhotel-inventario/imagem-11.webp)
@@ -118,7 +112,6 @@ Será possível utilizar o filtro de **Apartamentos** para exibir no calendário
 
 Caso existam datas com períodos com pouca quantidade de quartos disponíveis, o sistema sinalizará essas datas em:
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-24](/assets/guia-myhotel-inventario/imagem-24.webp)
 ![imagem-25](/assets/guia-myhotel-inventario/imagem-25.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -132,7 +125,6 @@ No canto superior direito da aba, existe a opção **‘Fechar Filtros’**, que
 
 Será possível atualizar o calendário de inventário para visualizar as modificações realizadas, clicando no botão **‘Atualizar’**, representado por uma ‘seta circular’:
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-26](/assets/guia-myhotel-inventario/imagem-26.webp)
 ![imagem-27](/assets/guia-myhotel-inventario/imagem-27.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
@@ -145,7 +137,6 @@ o nosso atendimento online CHAT - ou através do e-mail:
 
 Boas Vendas!!
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 ![imagem-29](/assets/guia-myhotel-inventario/imagem-29.webp)
 ![imagem-30](/assets/guia-myhotel-inventario/imagem-30.webp)
 ![imagem-31](/assets/guia-myhotel-inventario/imagem-31.webp)
