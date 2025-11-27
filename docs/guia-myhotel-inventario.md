@@ -17,7 +17,7 @@ slug: /
 
 Neste guia, você aprenderá como utilizar e interpretar as informações da aba de inventário.
 
-### Importante saber:
+### Importante saber
 
 As atualizações realizadas nesta aba poderão afetar diretamente o seu controle de disponibilidade e a integração com o PMS (Property Management System / Sistema de Gerenciamento da Propriedade). Portanto, caso tenha alguma dúvida sobre o uso desta aba, consulte a nossa equipe de especialistas antes de fazer qualquer alteração.
 
@@ -31,6 +31,8 @@ O caminho para acessar a aba de inventário é:
 
 ![imagem-4](/assets/guia-myhotel-inventario/imagem-4.webp)
 
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
+
 ## Informações disponíveis na aba Inventário
 
 Nesta aba será possível consultar as informações:
@@ -43,9 +45,11 @@ Para hotéis que possuem tarifários com o **‘Tipo de Disponibilidade: Tarifá
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
-
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
+
+![imagem-7](/assets/guia-myhotel-inventario/imagem-7.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 
 ## Detalhes sobre disponibilidade e ocupação
 
@@ -60,11 +64,43 @@ Ao clicar no botão **‘Atualizar’**, será possível fazer a atualização d
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-7](/assets/guia-myhotel-inventario/imagem-7.webp)
-
 ![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
 
-### Atualizar Ocupação
+![imagem-9](/assets/guia-myhotel-inventario/imagem-9.webp)
+
+
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
+
+## Atualizar Disponibilidade - detalhes
+
+Ao clicar no botão **‘Atualizar’**, informe:
+
+- Quais as datas a atualizar?  
+  - De – Até: informar o período que deseja atualizar, podendo *‘+ Adicionar outro período’*.
+- Quais os quartos e disponibilidades a atualizar?  
+  - Tipos de Quarto: selecionar o tipo de quarto desejado, podendo *‘+ Adicionar outro quarto’*.
+  - Apartamentos Disponíveis: informar a quantidade de quartos disponíveis.
+
+Para finalizar a atualização, clique no botão **‘Salvar’**.
+
+![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
+
+![imagem-10](/assets/guia-myhotel-inventario/imagem-10.webp)
+
+### Atualização via calendário
+
+Também será possível, clicando diretamente na grelha do calendário, selecionar um período. Para isso, basta clicar no dia inicial do período, arrastar até os dias seguintes e, em seguida, clicar no ícone de lápis no último dia do período selecionado:
+
+![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
+
+![imagem-11](/assets/guia-myhotel-inventario/imagem-11.webp)
+
+![imagem-12](/assets/guia-myhotel-inventario/imagem-12.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
+
+## Atualizar Ocupação
 
 2. **Ocupação:** número de quartos ocupados:
 
@@ -80,11 +116,25 @@ Para finalizar a atualização, clique no botão **‘Salvar’**.
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-12](/assets/guia-myhotel-inventario/imagem-12.webp)
-
 ![imagem-13](/assets/guia-myhotel-inventario/imagem-13.webp)
 
-### Atualizar Total de Apartamentos
+![imagem-14](/assets/guia-myhotel-inventario/imagem-14.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
+
+### Atualização de ocupação via calendário
+
+Será possível atualizar a ocupação clicando diretamente na grelha do calendário, no dia desejado, e depois no ícone “Lápis”:
+
+![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
+
+![imagem-15](/assets/guia-myhotel-inventario/imagem-15.webp)
+
+![imagem-16](/assets/guia-myhotel-inventario/imagem-16.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
+
+## Atualizar Total de Apartamentos
 
 3. **Total de apartamentos por período:** quantidade total do inventário do hotel cadastrada para os tipos de quarto.
 
@@ -98,43 +148,27 @@ Ao clicar em **‘Atualizar Total de Apartamentos’**, informe:
 
 Para finalizar a atualização, clique no botão **‘Salvar’**.
 
-### Importante saber:
+### Importante saber
 
 Uma vez alterado o **‘Total de Apartamentos’**, as datas modificadas aparecerão com o número total sinalizado em vermelho. Além disso, também será possível consultar os períodos atualizados clicando no botão **“(i) – INFORMAÇÃO”**.
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-16](/assets/guia-myhotel-inventario/imagem-16.webp)
+![imagem-17](/assets/guia-myhotel-inventario/imagem-17.webp)
 
-## Atualização via calendário
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 
-Também será possível, clicando diretamente na grelha do calendário, selecionar um período. Para isso, basta clicar no dia inicial do período, arrastar até os dias seguintes e, em seguida, clicar no ícone de lápis no último dia do período selecionado:
-
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
-
-![imagem-10](/assets/guia-myhotel-inventario/imagem-10.webp)
-
-![imagem-11](/assets/guia-myhotel-inventario/imagem-11.webp)
-
-## Atualização de ocupação via calendário
-
-Será possível atualizar a ocupação clicando diretamente na grelha do calendário, no dia desejado, e depois no ícone “Lápis”:
-
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
-
-![imagem-14](/assets/guia-myhotel-inventario/imagem-14.webp)
-
-![imagem-15](/assets/guia-myhotel-inventario/imagem-15.webp)
-
-## Atualização do total de apartamentos via calendário
+### Atualização do total de apartamentos via calendário
 
 Será possível atualizar o ‘Total de Apartamentos’ clicando diretamente na grelha do calendário, no dia desejado, e depois no ícone “Lápis”:
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-17](/assets/guia-myhotel-inventario/imagem-17.webp)
-
 ![imagem-18](/assets/guia-myhotel-inventario/imagem-18.webp)
+
+![imagem-19](/assets/guia-myhotel-inventario/imagem-19.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 
 ## Outras informações
 
@@ -146,9 +180,13 @@ No final do calendário de inventário, será possível visualizar:
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-19](/assets/guia-myhotel-inventario/imagem-19.webp)
-
 ![imagem-20](/assets/guia-myhotel-inventario/imagem-20.webp)
+
+![imagem-21](/assets/guia-myhotel-inventario/imagem-21.webp)
+
+
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 
 ### Códigos de cores
 
@@ -161,9 +199,11 @@ Será possível atualizar o calendário de inventário para visualizar as modifi
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-21](/assets/guia-myhotel-inventario/imagem-21.webp)
-
 ![imagem-22](/assets/guia-myhotel-inventario/imagem-22.webp)
+
+![imagem-23](/assets/guia-myhotel-inventario/imagem-23.webp)
+
+![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 
 ## Contato
 
@@ -175,10 +215,10 @@ Boas Vendas!!
 
 ![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
 
-![imagem-25](/assets/guia-myhotel-inventario/imagem-25.webp)
-
 ![imagem-26](/assets/guia-myhotel-inventario/imagem-26.webp)
 
 ![imagem-27](/assets/guia-myhotel-inventario/imagem-27.webp)
 
 ![imagem-28](/assets/guia-myhotel-inventario/imagem-28.webp)
+
+![imagem-29](/assets/guia-myhotel-inventario/imagem-29.webp)
