@@ -9,11 +9,14 @@ slug: /
 
 <div style="text-align:center;">![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)</div>
 
+<div style="text-align:center;">![imagem-2](/assets/guia-myhotel-inventario/imagem-2.webp)</div>
+<div style="text-align:center;">![imagem-3](/assets/guia-myhotel-inventario/imagem-3.webp)</div>
+
 ## Introdução
 
 Neste guia, você aprenderá como utilizar e interpretar as informações da aba de inventário.
 
-### Importante saber:
+### Importante saber
 
 As atualizações realizadas nesta aba poderão afetar diretamente o seu controle de disponibilidade e a integração com o PMS (Property Management System / Sistema de Gerenciamento da Propriedade). Portanto, caso tenha alguma dúvida sobre o uso desta aba, consulte a nossa equipe de especialistas antes de fazer qualquer alteração.
 
@@ -66,7 +69,7 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 <div style="text-align:center;">![imagem-14](/assets/guia-myhotel-inventario/imagem-14.webp)</div>
 <div style="text-align:center;">![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)</div>
 
-### Importante saber:
+### Importante saber
 
 Em **“Vista Detalhada”**, será possível atualizar a **‘Disponibilidade por Inventário’** clicando diretamente na grelha do calendário, no dia desejado, depois no **‘Ícone Lápis’**:
 
@@ -93,7 +96,7 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 <div style="text-align:center;">![imagem-14](/assets/guia-myhotel-inventario/imagem-14.webp)</div>
 <div style="text-align:center;">![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)</div>
 
-### Importante saber:
+### Importante saber
 
 Será possível atualizar a **‘Ocupação’** clicando diretamente na grelha do calendário, no dia desejado e depois no ícone **“Lápis”**:
 
@@ -121,7 +124,7 @@ Ao clicar em **‘Atualizar Total de Apartamentos’**, informe:
 
 Para finalizar a atualização clique no botão **‘Salvar’**.
 
-### Importante saber:
+### Importante saber
 
 Uma vez alterado o **‘Total de Apartamentos’**, as datas modificadas aparecerão com o número total sinalizado em vermelho. Além disso, também será possível consultar os períodos atualizados clicando no botão **“(i) – Informação”**.
 
