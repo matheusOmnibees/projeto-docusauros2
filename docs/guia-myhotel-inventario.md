@@ -7,9 +7,6 @@ slug: /
 
 # Tarifários e Disponibilidade - Inventário
 
-![imagem-1](/assets/guia-myhotel-inventario/imagem-1.webp)
-![imagem-2](/assets/guia-myhotel-inventario/imagem-2.webp)
-![imagem-3](/assets/guia-myhotel-inventario/imagem-3.webp)
 
 ## Introdução
 
