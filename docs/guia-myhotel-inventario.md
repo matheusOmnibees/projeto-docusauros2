@@ -23,7 +23,6 @@ O caminho para acessar a aba de inventário é:
 **Menu de Navegação > Tarifários e Disponibilidade > Inventário:**
 
 ![imagem-4](/assets/guia-myhotel-inventario/imagem-4.webp)
-![imagem-5](/assets/guia-myhotel-inventario/imagem-5.webp)
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
 
 ## Informações disponíveis na aba Inventário
