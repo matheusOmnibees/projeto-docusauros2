@@ -23,11 +23,12 @@ O caminho para acessar a aba de inventário é:
 **Menu de Navegação > Tarifários e Disponibilidade > Inventário:**
 
 ![imagem-4](/assets/guia-myhotel-inventario/imagem-4.webp)
-![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
 
 ## Informações disponíveis na aba Inventário
 
 Nesta aba será possível consultar as informações:
+
+![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
 
 - Quantidade do **‘Total de Apartamentos’** no inventário dos tipos de quartos do hotel;
 - Número de quartos **‘Ocupados’**;
@@ -36,8 +37,6 @@ Nesta aba será possível consultar as informações:
 Para hotéis que possuem tarifários com o **‘Tipo de Disponibilidade: Tarifário com impacto no Inventário’**, estará disponível a opção de visualizar o calendário em **‘Vista Detalhada’**, permitindo a consulta das atualizações de allotment realizadas para esse tipo de tarifário, onde serão exibidas:
 
 ![imagem-7](/assets/guia-myhotel-inventario/imagem-7.webp)
-![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
-![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
 
 ## Detalhes sobre os tipos de disponibilidade
 
@@ -52,6 +51,9 @@ Ao clicar no botão **‘Atualizar’**, será possível fazer a atualização d
 - *Disponibilidade*,
 - *Ocupação*,
 - ou *Total de apartamento por período*.
+
+![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
+
 
 1. **Disponibilidade:** número de quartos disponíveis:
 
