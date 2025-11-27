@@ -136,11 +136,3 @@ o nosso atendimento online CHAT - ou através do e-mail:
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 Boas Vendas!!
-
-![imagem-29](/assets/guia-myhotel-inventario/imagem-29.webp)
-![imagem-30](/assets/guia-myhotel-inventario/imagem-30.webp)
-![imagem-31](/assets/guia-myhotel-inventario/imagem-31.webp)
-![imagem-32](/assets/guia-myhotel-inventario/imagem-32.webp)
-
-![imagem-33](/assets/guia-myhotel-inventario/imagem-33.webp)
-![imagem-34](/assets/guia-myhotel-inventario/imagem-34.webp)
