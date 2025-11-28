@@ -26,30 +26,30 @@ Acessando a aba, será possível visualizar as informações do calendário por:
 ![imagem-4](/assets/guia-myhotel-calendario-360/imagem-4.webp)
 
 
-• **Vista Quarto:**  
-
-**IMPORTANTE SABER!**  
-Em frente do nome do tarifário ou do tipo de quarto, será possível visualizar as identificações das informações da “Moeda” e do “Tipo de Disponibilidade” cadastrados nas configurações do tarifário:  
+• **Vista Quarto:** 
 
 ![imagem-6](/assets/guia-myhotel-calendario-360/imagem-6.webp)
 
-
-Ao selecionar a vista desejada, será possível pesquisar, visualizar, cadastrar e atualizar as informações de disponibilidade, abertura ou fecho de vendas, preços e/ou restrições:  
+**IMPORTANTE SABER!**  
+Em frente do nome do tarifário ou do tipo de quarto, será possível visualizar as identificações das informações da “Moeda” e do “Tipo de Disponibilidade” cadastrados nas configurações do tarifário:  
 
 ![imagem-7](/assets/guia-myhotel-calendario-360/imagem-7.webp)
 
 ![imagem-8](/assets/guia-myhotel-calendario-360/imagem-8.webp)
 
+
+Ao selecionar a vista desejada, será possível pesquisar, visualizar, cadastrar e atualizar as informações de disponibilidade, abertura ou fecho de vendas, preços e/ou restrições:  
+
+![imagem-9](/assets/guia-myhotel-calendario-360/imagem-9.webp)
+
 ### Área de Filtros  
 
 Utilize o campo de busca para pesquisar os tarifários e selecionar a data que deseja visualizar preços e/ou realizar alterações:  
 
+![imagem-10](/assets/guia-myhotel-calendario-360/imagem-10.webp)
+
 **Pesquisar por:**  
 nome do tarifário e pacote, nome do tipo de quarto, canal, operadora, empresa, agência e posto de agências, PCC e programa de fidelidade e nível de fidelidade.  
-
-![imagem-9](/assets/guia-myhotel-calendario-360/imagem-9.webp)
-
-![imagem-10](/assets/guia-myhotel-calendario-360/imagem-10.webp)
 
 
 • **Data:**  
@@ -60,14 +60,12 @@ A depender do período selecionado, será possível utilizar as setas de “avan
 
 ![imagem-11](/assets/guia-myhotel-calendario-360/imagem-11.webp)
 
+![imagem-12](/assets/guia-myhotel-calendario-360/imagem-12.webp)
 
 • Ou para visualizar os “dias anteriores”:  
 
-![imagem-12](/assets/guia-myhotel-calendario-360/imagem-12.webp)
-
 ![imagem-13](/assets/guia-myhotel-calendario-360/imagem-13.webp)
 
-![imagem-14](/assets/guia-myhotel-calendario-360/imagem-14.webp)
 
 • Também será possível visualizar ou ocultar os filtros, clicando em “Fechar Filtros” ou “Abrir Filtros”:  
 
@@ -78,12 +76,13 @@ A depender do período selecionado, será possível utilizar as setas de “avan
 
 • E, se necessário, poderá atualizar as informações do calendário, clicando no botão “atualizar”:  
 
+![imagem-17](/assets/guia-myhotel-calendario-360/imagem-17.webp)
+
 ### Opções Avançadas  
 
 Clicando em “Opções Avançadas” será possível selecionar as informações que serão exibidas no calendário 360:  
 
-![imagem-17](/assets/guia-myhotel-calendario-360/imagem-17.webp)
-
+![imagem-18](/assets/guia-myhotel-calendario-360/imagem-18.webp)
 
 • **Mostrar Tarifários:**  
 apenas ativas, tarifários derivados, moeda específica, tipo de disponibilidade.  
@@ -92,10 +91,9 @@ apenas ativas, tarifários derivados, moeda específica, tipo de disponibilidade
 preços e/ou restrições.  
 
 **IMPORTANTE SABER!**  
-Para visualizar as informações das cores de ‘identificação da disponibilidade’, que aparecerão no calendário, clique no botão ‘i’, de informações (localizado ao lado de “Opções Avançadas”):  
+Para visualizar as informações das cores de ‘identificação da disponibilidade’, que aparecerão no calendário, clique no botão ‘i’, de informações (localizado ao lado de “Opções Avançadas”): 
 
-![imagem-18](/assets/guia-myhotel-calendario-360/imagem-18.webp)
-
+![imagem-19](/assets/guia-myhotel-calendario-360/imagem-19.webp)
 
 • **Verde:**  
  data “Disponível” com ‘abertura de vendas’.  
@@ -119,15 +117,13 @@ fechar e abrir as vendas no ‘calendário de disponibilidade’, selecionando o
 ➞ **OPÇÃO 1 – POR DIA/PERÍODO:**  
 clicando sobre o dia desejado, aparecerá uma “seta” apontando para abaixo (ao lado da informação de disponibilidade). Ao clicar nela, aparecerão as possibilidades de: ‘abrir todas as vendas’, ‘fechar todas as vendas’ e ‘abrir/fechar seletivo’.  
 
-![imagem-19](/assets/guia-myhotel-calendario-360/imagem-19.webp)
-
+![imagem-20](/assets/guia-myhotel-calendario-360/imagem-20.webp)
 
 Obs: selecionando o dia desejado, aparecerá também o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros.  
 
 ➞ **OPÇÃO 2 – POR TARIFÁRIO:**  
 clicando no botão de ‘três pontos’, localizado na frente do nome do tarifário, será possível acessar “mais opções” para ‘fechar todas as vendas’ ou ‘abrir/fechar seletivo’ para o período que esta selecionado no campo “data”:  
 
-![imagem-20](/assets/guia-myhotel-calendario-360/imagem-20.webp)
 
 ![imagem-21](/assets/guia-myhotel-calendario-360/imagem-21.webp)
 
@@ -135,25 +131,27 @@ clicando no botão de ‘três pontos’, localizado na frente do nome do tarif�
 **IMPORTANTE SABER!**  
 Ainda no botão de ‘três pontos’ (‘mais opções’), localizado na frente do nome do tarifário, será possível clicar em “Editar Tarifário/Pacote”, fazendo com que o sistema abra a aba de “Tarifários”, possibilitando a configuração do tarifário desejado.  
 
+![imagem-22](/assets/guia-myhotel-calendario-360/imagem-22.webp)
+
 ➞ **OPÇÃO 3 – POR DIA PARA TODOS OS TARIFÁRIOS OU TIPOS DE QUARTOS:**  
 clicando na ‘seta’ apontada para baixo, que irá aparecer do lado do dia selecionado, será possível aplicar um ‘fechar todas as vendas’ para todos os tarifários ou tipos de quartos.  
 
-![imagem-22](/assets/guia-myhotel-calendario-360/imagem-22.webp)
-
+![imagem-23](/assets/guia-myhotel-calendario-360/imagem-23.webp)
 
 ### Disponibilidade:  
 
 será possível atualizar a disponibilidade por tarifário ou tipo de quarto:  
 
-• **Vista Tarifário:**  
+• **Vista Tarifário:**
+
+![imagem-24](/assets/guia-myhotel-calendario-360/imagem-24.webp)
+
 1. Será preciso, primeiramente, **maximizar a linha tarifária**, clicando no _botão com o sinal de ‘+’ antes do nome do tarifário_ para abrir o _calendário de inventário do hotel_.  
 2. Após, será necessário clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Disponibilidade”.  
 
 Obs: selecionando o dia desejado, aparecerá também  
 
-![imagem-23](/assets/guia-myhotel-calendario-360/imagem-23.webp)
 
-![imagem-24](/assets/guia-myhotel-calendario-360/imagem-24.webp)
 
 
 o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros da disponibilidade atualizada.  
@@ -164,7 +162,6 @@ Ao clicar no botão da ‘seta’ apontando para baixo, para ter acesso ao botã
 
 • **Vista Quarto:**  
 
-![imagem-25](/assets/guia-myhotel-calendario-360/imagem-25.webp)
 
 
 1. Ao abrir a “Vista Quarto” já aparecerá o _calendário de inventário_ por quarto e será necessário clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Disponibilidade”.  
@@ -273,7 +270,5 @@ Boas Vendas!!
 
 ![imagem-40](/assets/guia-myhotel-calendario-360/imagem-40.webp)
 
-![imagem-41](/assets/guia-myhotel-calendario-360/imagem-41.webp)
 
 
-![imagem-42](/assets/guia-myhotel-calendario-360/imagem-42.webp)
