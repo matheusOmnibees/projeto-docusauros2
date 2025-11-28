@@ -149,20 +149,16 @@ será possível atualizar a disponibilidade por tarifário ou tipo de quarto:
 1. Será preciso, primeiramente, **maximizar a linha tarifária**, clicando no _botão com o sinal de ‘+’ antes do nome do tarifário_ para abrir o _calendário de inventário do hotel_.  
 2. Após, será necessário clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Disponibilidade”.  
 
-Obs: selecionando o dia desejado, aparecerá também  
-
-
-
-
-o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros da disponibilidade atualizada.  
+Obs: selecionando o dia desejado, aparecerá também o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros da disponibilidade atualizada.  
 
 **IMPORTANTE SABER!**  
 Ao clicar no botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Disponibilidade”, aparecerão também as opções de “Abrir Toda as Vendas”, “Fechar Todas as Vendas” e “Abrir/Fechar Seletivo”:  
 
+![imagem-26](/assets/guia-myhotel-calendario-360/imagem-26.webp)
 
 • **Vista Quarto:**  
 
-
+![imagem-27](/assets/guia-myhotel-calendario-360/imagem-27.webp)
 
 1. Ao abrir a “Vista Quarto” já aparecerá o _calendário de inventário_ por quarto e será necessário clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Disponibilidade”.  
 
@@ -173,19 +169,18 @@ o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o 
 **IMPORTANTE SABER!**  
 Ao clicar no botão da ‘seta’ apontando para baixo para ter acesso ao botão “Atualizar Disponibilidade”, aparecerão também as opções de “Abrir Toda as Vendas”, “Fechar Todas as Vendas” e “Abrir/Fechar Seletivo”:  
 
-![imagem-26](/assets/guia-myhotel-calendario-360/imagem-26.webp)
+![imagem-28](/assets/guia-myhotel-calendario-360/imagem-28.webp)
 
 ### Preços:  
 
 será possível realizar cadastros ou atualizações dos preços dos tarifários diretamente no calendário 360:  
 
 • **Vista Tarifário:**  
+![imagem-29](/assets/guia-myhotel-calendario-360/imagem-29.webp)
+
+
 1 Primeiramente, será preciso **maximizar a linha do ‘tarifário’ desejado**.  
 2 Depois, **maximizar a linha do ‘tipo de quarto’**.  
-
-![imagem-27](/assets/guia-myhotel-calendario-360/imagem-27.webp)
-
-![imagem-28](/assets/guia-myhotel-calendario-360/imagem-28.webp)
 
 3 Clicar sobre o dia desejado, para realizar a alteração do preço da tarifa.  
 
@@ -204,7 +199,6 @@ será possível realizar cadastros ou atualizações das ‘restrições’ dos 
 
 • **Vista Tarifário:**  
 
-![imagem-29](/assets/guia-myhotel-calendario-360/imagem-29.webp)
 
 1 Ao clicar em “Mais Restrições” será possível cadastrar ou atualizar: mínimo de dias, máxima de dias, estadia certa, dias de antecedência, fechado à chegada e fechado a saída.  
 2 E selecionando o dia que deseja aplicar a restrição, aparecerá também o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros.  
