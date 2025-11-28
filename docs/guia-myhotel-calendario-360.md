@@ -25,7 +25,6 @@ Acessando a aba, será possível visualizar as informações do calendário por:
 
 ![imagem-4](/assets/guia-myhotel-calendario-360/imagem-4.webp)
 
-
 • **Vista Quarto:** 
 
 ![imagem-6](/assets/guia-myhotel-calendario-360/imagem-6.webp)
@@ -36,7 +35,6 @@ Em frente do nome do tarifário ou do tipo de quarto, será possível visualizar
 ![imagem-7](/assets/guia-myhotel-calendario-360/imagem-7.webp)
 
 ![imagem-8](/assets/guia-myhotel-calendario-360/imagem-8.webp)
-
 
 Ao selecionar a vista desejada, será possível pesquisar, visualizar, cadastrar e atualizar as informações de disponibilidade, abertura ou fecho de vendas, preços e/ou restrições:  
 
