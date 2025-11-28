@@ -175,7 +175,6 @@ Ao clicar no botão da ‘seta’ apontando para baixo para ter acesso ao botão
 
 ![imagem-26](/assets/guia-myhotel-calendario-360/imagem-26.webp)
 
-
 ### Preços:  
 
 será possível realizar cadastros ou atualizações dos preços dos tarifários diretamente no calendário 360:  
@@ -207,7 +206,6 @@ será possível realizar cadastros ou atualizações das ‘restrições’ dos 
 
 ![imagem-29](/assets/guia-myhotel-calendario-360/imagem-29.webp)
 
-
 1 Ao clicar em “Mais Restrições” será possível cadastrar ou atualizar: mínimo de dias, máxima de dias, estadia certa, dias de antecedência, fechado à chegada e fechado a saída.  
 2 E selecionando o dia que deseja aplicar a restrição, aparecerá também o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros.  
 
@@ -215,13 +213,11 @@ será possível realizar cadastros ou atualizações das ‘restrições’ dos 
 
 ![imagem-31](/assets/guia-myhotel-calendario-360/imagem-31.webp)
 
-
 • **Vista Quarto:**  
 
 ![imagem-32](/assets/guia-myhotel-calendario-360/imagem-32.webp)
 
 ![imagem-33](/assets/guia-myhotel-calendario-360/imagem-33.webp)
-
 
 1 Ao clicar em “Mais Restrições”, será possível cadastrar ou atualizar: mínimo de dias, máxima de dias, estadia certa, dias de antecedência, fechado à chegada e fechado a saída.  
 2 E selecionando o dia que deseja aplicar a restrição, aparecerá também o ícone de ‘+’ (localizado no canto inferior direito do dia), para fazer o ‘arraste para copiar’/’solte para colar’ para os dias futuros.  
@@ -233,7 +229,7 @@ para os hotéis que tem tarifários com o _“tipo de disponibilidade: tarifári
 
 • **Vista Tarifário:**  
 
-
+![imagem-34](/assets/guia-myhotel-calendario-360/imagem-34.webp)
 
 1 Primeiramente, será preciso maximizar a linha do ‘tarifário’ com o ‘tipo de disponibilidade: tarifário com impacto no inventário’.  
 2 Depois, clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso ao botão “Atualizar Allotment”.  
@@ -241,34 +237,35 @@ para os hotéis que tem tarifários com o _“tipo de disponibilidade: tarifári
 
 Ao clicar em “Atualizar Allotment”, será possível definir o número de allotment para o dia e tarifário, selecionados. Após definir será necessário clicar em “ok”:  
 
-![imagem-34](/assets/guia-myhotel-calendario-360/imagem-34.webp)
-
+![imagem-35](/assets/guia-myhotel-calendario-360/imagem-35.webp)
 
 Caso queira replicar a informação atualizada, para os dias futuros, estacione o mouse no dia que tem a quantidade de “allotment” atualizada e clique sobre **‘+ Arrastar para copiar’/’soltar para colar’**:  
 
-E por fim, será possível visualizar a **‘Disponibilidade Total da Propriedade’**, por dia:  
-
-![imagem-35](/assets/guia-myhotel-calendario-360/imagem-35.webp)
 
 ![imagem-36](/assets/guia-myhotel-calendario-360/imagem-36.webp)
+
+E por fim, será possível visualizar a **‘Disponibilidade Total da Propriedade’**, por dia:  
+
+![imagem-37](/assets/guia-myhotel-calendario-360/imagem-37.webp)
+
 
 **IMPORTANTE SABER!**  
 Após efetuar todos os cadastros ou atualizações desejadas, basta clicar em “Salvar” para que as informações sejam atualizadas no calendário.  
 
-![imagem-37](/assets/guia-myhotel-calendario-360/imagem-37.webp)
 
 ![imagem-38](/assets/guia-myhotel-calendario-360/imagem-38.webp)
 
-Ou será possível “Cancelar Alterações”, caso não tenha certeza da alteração realizada:  
+Ou será possível “Cancelar Alterações”, caso não tenha certeza da alteração realizada:
+
+![imagem-39](/assets/guia-myhotel-calendario-360/imagem-39.webp)
 
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:  
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
 
-Boas Vendas!!  
-
-![imagem-39](/assets/guia-myhotel-calendario-360/imagem-39.webp)
 
 ![imagem-40](/assets/guia-myhotel-calendario-360/imagem-40.webp)
+
+Boas Vendas!!  
 
 
 
